@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://medicsupplies.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://medicsupplies.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://medicsupplies.ca/collections/eye-protection.atom"/>
+  <title>Medic Supplies</title>
+  <updated>2020-04-13T16:47:17-04:00</updated>
+  <author>
+    <name>Medic Supplies</name>
+  </author>
+  <entry>
+    <id>https://medicsupplies.ca/products/4495912632380</id>
+    <published>2020-04-13T16:47:17-04:00</published>
+    <updated>2020-04-13T16:47:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://medicsupplies.ca/products/medical-goggles"/>
+    <title>Goggles</title>
+    <s:type></s:type>
+    <s:vendor>MedicsuppliesCA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/9500/3196/products/product-image-1331842155.jpg?v=1590086691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MedicsuppliesCA<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Model Number:</strong> Eyewear Goggles</span><br><span><strong>Size::</strong> 17.5x8.5cm/6.89x3.35in</span><br><span><strong>Color::</strong> White Transparent</span><br><br></p>
+<p><strong>*2-4 Day Express Shipping included for Mask purchases in Canada over $99</strong></p>
+<p>**Offer only available while supplies last</p>
+<p><em><strong><a href="https://cdn.shopify.com/s/files/1/0286/9500/3196/files/9_Medic_Supplies_Medical_Goggles_Catalogue.pdf?v=1588813400" target="_blank">Click here for full product specifications</a></strong></em></p>
+<p>Medic Supplies Canada offers inexpensive medical goggles for online purchases. Designed to keep your eyes safe from flying debris or chemical splashes. Industrial, commercial, lab, woodworking, and domestic tasks are all possible with these medical safety goggles.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>best</s:tag>
+    <s:tag>eye</s:tag>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/4495912632380</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>34951935</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://medicsupplies.ca/products/4495912599612</id>
+    <published>2020-04-13T16:47:17-04:00</published>
+    <updated>2020-04-13T16:47:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://medicsupplies.ca/products/safety-goggles"/>
+    <title>Safety Goggles</title>
+    <s:type></s:type>
+    <s:vendor>MedicsuppliesCA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/9500/3196/products/product-image-1353696001.jpg?v=1588275468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MedicsuppliesCA<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Model Number:</strong> Safety Goggles</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eye</s:tag>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/4495912599612</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>35600529-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://medicsupplies.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://medicsupplies.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://medicsupplies.ca/collections/fire-protection.atom"/>
+  <title>Medic Supplies</title>
+  <updated>2020-04-13T19:33:46-04:00</updated>
+  <author>
+    <name>Medic Supplies</name>
+  </author>
+  <entry>
+    <id>https://medicsupplies.ca/products/4496123297852</id>
+    <published>2020-04-13T19:33:46-04:00</published>
+    <updated>2020-04-13T19:33:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://medicsupplies.ca/products/honeywell-gas-sensor-alarm"/>
+    <title>Honeywell Gas Sensor Alarm</title>
+    <s:type></s:type>
+    <s:vendor>MedicsuppliesCA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/9500/3196/products/product-image-1353871559.jpg?v=1588294451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MedicsuppliesCA<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> Honeywell</span><br><span><strong>Model Number:</strong> JTQJ-BF-01LM/BW</span><br><span><strong>Type:</strong> Smoke Detector</span><br><span><strong>Features:</strong> Remote Control</span><br></p>
+<p><strong>﻿<span>**Please Note: Shipping time for this item is 30-60 Days**</span></strong></p>
+<p><strong><span>Honeywell Gas Sensor Alarm. Compliance, safety, and productivity<br></span></strong></p>
+<p>Gas leaks that occur by accident represent a significant hazard to property, the environment, and human life. As a result, Honeywell Technologies manufactures and produces a broad and comprehensive variety of portable Honeywell gas detector or gas sensor alarms, ranging from simple alarm-only devices to complex, fully customizable, and serviced instruments, all in small, lightweight designs.<br><br>Honeywell's portable gas sensor alarms are ideal for tight places, spot leak testing, and mobile use. They give real-time visibility into the status and safety. Buy Honeywell gas detector from Medic Supplies Canada today.<br data-mce-fragment="1"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fire</s:tag>
+    <s:tag>gas</s:tag>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/4496123297852</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>35604941-gas-detector</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://medicsupplies.ca/products/4496123232316</id>
+    <published>2020-04-13T19:33:46-04:00</published>
+    <updated>2020-04-13T19:33:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://medicsupplies.ca/products/wifi-smoke-detector"/>
+    <title>Wifi  Smoke Detector</title>
+    <s:type></s:type>
+    <s:vendor>MedicsuppliesCA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/9500/3196/products/product-image-1231143745.jpg?v=1586820829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MedicsuppliesCA<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.10 - 20.34
+            <a href="https://medicsupplies.ca/products/wifi-smoke-detector">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Model Number:</strong> Smoke Detector Wireless</span><br><span><strong>Power voltage:</strong> DC9V(6F22 battery not included)</span><br><span><strong>Alarm Method:</strong> Standalone/ wireless transmission for options</span><br><span><strong>Wireless transmission frequency:</strong> 433MHz, independent detection alarm, wireless transmission (support</span><br><span><strong>Wireless code rule:</strong> 1527, can skip code</span><br><span><strong>Installation height:</strong> above 2m</span><br><span><strong>Working area:</strong> 60 square meters</span><br><span><strong>Sounder level:</strong> more than 85dB</span><br><span><strong>Low voltage Alarm:</strong> 6.8V</span><br><span><strong>Products dimension:</strong> 100x100 x 34mm</span><br><span><strong>Color:</strong> White</span><br><span><strong>Material:</strong> ABS + High Sensitivity Sensor</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fire</s:tag>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/4496123232316</id>
+      <title>China / White</title>
+      <s:price currency="CAD">19.60</s:price>
+      <s:sku>32913479-china-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/4496123232316</id>
+      <title>Spain / White</title>
+      <s:price currency="CAD">18.74</s:price>
+      <s:sku>32913479-spain-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/4496123232316</id>
+      <title>Russian Federation / White</title>
+      <s:price currency="CAD">6.10</s:price>
+      <s:sku>32913479-russian-federation-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/4496123232316</id>
+      <title>France / White</title>
+      <s:price currency="CAD">20.34</s:price>
+      <s:sku>32913479-france-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/4496123232316</id>
+      <title>United States / White</title>
+      <s:price currency="CAD">19.20</s:price>
+      <s:sku>32913479-united-states-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://medicsupplies.ca/products/4496100655164</id>
+    <published>2020-04-13T19:11:36-04:00</published>
+    <updated>2020-04-13T19:11:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://medicsupplies.ca/products/industrial-portable-carbon-dioxide-detector-0-2000ppm-brand-precise-continuous-online-co2-detection-tester-ndir-co2-gas-sensor"/>
+    <title>Portable Carbon Dioxide Detector</title>
+    <s:type></s:type>
+    <s:vendor>MedicsuppliesCA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/9500/3196/products/product-image-484029832.jpg?v=1588296276"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MedicsuppliesCA<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            154.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> NoEnName_Null</span><br><span><strong>DIY Supplies:</strong> Electrical</span><br><span><strong>Model Number:</strong> GM8802</span><br><span><strong>With LCD Screen Or Not:</strong> Yes</span><br><span><strong>Gas Type:</strong> CO2</span></p>
+<p><strong>**Please Note: Shipping time for this item is 30-60 Days**</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fire</s:tag>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/4496100655164</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">154.99</s:price>
+      <s:sku>11535714</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

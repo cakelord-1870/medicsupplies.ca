@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://medicsupplies.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://medicsupplies.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://medicsupplies.ca/collections/supplements.atom"/>
+  <title>Medic Supplies</title>
+  <updated>2021-04-15T14:58:24-04:00</updated>
+  <author>
+    <name>Medic Supplies</name>
+  </author>
+  <entry>
+    <id>https://medicsupplies.ca/products/6559107842108</id>
+    <published>2021-04-15T14:58:24-04:00</published>
+    <updated>2021-04-15T14:58:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://medicsupplies.ca/products/jamieson-vitamin-b-complex-timed-release"/>
+    <title>Jamieson Vitamin B Complex 120 Tablets - Timed Release | Medic Supplies Canada</title>
+    <s:type></s:type>
+    <s:vendor>Medic Supplies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/9500/3196/products/ScreenShot2021-04-15at2.53.39PM.png?v=1618513034"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Medic Supplies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>
+<meta charset="utf-8">
+<p class="a-size-large a-spacing-none"><strong>Jamieson Vitamin B Complex - Timed Release - 120 Tablets</strong></p>
+</div>
+<br>
+<div><strong>About This Supplement</strong></div>
+<div>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Ultra-strength vitamin B complex</span></li>
+<li><span class="a-list-item">Timed-release formula that helps convert carbs, proteins and fats to energy throughout the day</span></li>
+<li><span class="a-list-item">Helps naturally relieve symptoms of stress</span></li>
+<li><span class="a-list-item">Suitable for individuals following a vegetarian diet</span></li>
+<li><span class="a-list-item">Convenient one-per-day formula</span></li>
+</ul>
+</div>
+<p><span class="a-list-item" data-mce-fragment="1">Medic Supplies is an Authorized Distributor for Jamieson Supplements</span></p>
+<ul class="a-unordered-list a-nostyle a-vertical a-spacing-none detail-bullet-list">
+<li><span class="a-list-item"><span class="a-text-bold">Place of Business :<span> </span></span><span>Windsor, ON N8W 5B5, CA</span></span></li>
+<li><span class="a-list-item"><span class="a-text-bold">ASIN :<span> </span></span><span>B00BC9GV38</span></span></li>
+<li><span class="a-list-item"><span class="a-text-bold">Item model number :<span> </span></span><span>2170</span></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>best</s:tag>
+    <s:tag>supplements</s:tag>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/6559107842108</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://medicsupplies.ca/products/6559102140476</id>
+    <published>2021-04-15T14:37:35-04:00</published>
+    <updated>2021-04-15T14:37:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://medicsupplies.ca/products/jamieson-vit-b12-tr-1200mcg-tab-60w-f20-tot-80-s"/>
+    <title>Jamieson Vitamin B12 Tablets</title>
+    <s:type></s:type>
+    <s:vendor>Medic Supplies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/9500/3196/products/ScreenShot2021-04-15at2.33.00PM.png?v=1618511838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Medic Supplies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>
+<meta charset="utf-8">
+<p class="a-size-large a-spacing-none"><strong><span class="a-size-large product-title-word-break" id="productTitle">Jamieson Vitamin B12 Tablets, Timed Release, 1,200 mcg, 80 Count</span></strong></p>
+</div>
+<br>
+<div><strong>About This Supplement</strong></div>
+<div>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Gradually releases vitamin B12 throughout the day to improve absorption efficiency</span></li>
+<li><span class="a-list-item">High potency formula</span></li>
+<li><span class="a-list-item">Provides energy support</span></li>
+<li><span class="a-list-item">Supports the metabolism of carbohydrates, fats and proteins</span></li>
+<li><span class="a-list-item">Sold as "Jamieson Vitamin B12 Tablets, Timed Release, 1,200 mcg, 80 Count (Pack of 1)"</span></li>
+</ul>
+</div>
+<p><span class="a-list-item" data-mce-fragment="1">Medic Supplies is an Authorized Distributor for Jamieson Supplements</span></p>
+<ul class="a-unordered-list a-nostyle a-vertical a-spacing-none detail-bullet-list">
+<li><span class="a-list-item"><span class="a-text-bold">Manufacturer :<span> </span></span><span>Jamieson</span></span></li>
+<li><span class="a-list-item"><span class="a-text-bold">Place of Business :<span> </span></span><span>Windsor, ON N8W 5B5, CA</span></span></li>
+<li><span class="a-list-item"><span class="a-text-bold">ASIN :<span> </span></span><span>B00BMTIYSI</span></span></li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>best</s:tag>
+    <s:tag>supplements</s:tag>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/6559102140476</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://medicsupplies.ca/products/6558754537532</id>
+    <published>2021-04-14T19:24:08-04:00</published>
+    <updated>2021-04-14T19:24:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://medicsupplies.ca/products/jamieson-chewable-vitamin-c-500-mg-tangy-orange"/>
+    <title>Jamieson Chewable Vitamin C 500 mg - Tangy Orange</title>
+    <s:type></s:type>
+    <s:vendor>Medic Supplies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/9500/3196/products/79448226-dff9-4a8f-8336-a7b46a2b2afa.png?v=1618442233"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Medic Supplies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div data-mce-fragment="1"><strong data-mce-fragment="1">120 Vitamin C Tablets, 500 mg</strong></div>
+<div data-mce-fragment="1">
+<br><strong data-mce-fragment="1"></strong>
+</div>
+<div data-mce-fragment="1"><strong data-mce-fragment="1">About This Supplement</strong></div>
+<ul class="a-unordered-list a-nostyle a-vertical a-spacing-none detail-bullet-list" data-mce-fragment="1">
+<li><span class="a-list-item">Provides support for a healthy immune system</span></li>
+<li><span class="a-list-item">Source of antioxidants to support overall health</span></li>
+<li><span class="a-list-item">Natural orange flavour</span></li>
+<li><span class="a-list-item">Convenient, chewable tablets</span></li>
+<li><span class="a-list-item">No artificial colours or flavours</span></li>
+</ul>
+<p> </p>
+<h4>Ingredients </h4>
+<p>Vitamin C 5 mg (Ascorbic Acid, Sodium Ascorbate), supporting Botanical Blend 7 mg, derived from:</p>
+<p>Rutin (<em>Dimorphandra mollis</em>, pod)</p>
+<p>Hesperidin Complex (<em>Citrus sinensis</em>, fruit)</p>
+<p>Lemon Bioflavonoids (<em>Citrus limon</em>, rind) providing 3% Hesperidin, Acerola Cherry (4:1) extract (<em>Malpighia glabra</em>, fruit) equivalent to 5.76 mg of raw herb</p>
+<p>Rosehips (<em>Rosa canina</em>, fruit)</p>
+<p>Also contains: Dextrose, cellulose, vegetable stearic acid, vegetable magnesium stearate, natural flavours (orange, lemon, grapefruit and lime), silica, sucralose.</p>
+<p>NO gluten, artificial colours or flavours.</p>
+<p data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Medic Supplies is an Authorized Distributor for Jamieson Supplements</span></p>
+<ul class="a-unordered-list a-nostyle a-vertical a-spacing-none detail-bullet-list">
+<li><span class="a-list-item"><span class="a-text-bold">Manufacturer :<span> </span></span><span>Jamieson</span></span></li>
+<li><span class="a-list-item"><span class="a-text-bold">Place of Business :<span> </span></span><span>Windsor, ON N8W 5B5, CA</span></span></li>
+<li><span class="a-list-item"><span class="a-text-bold">ASIN :<span> </span></span><span>B003M59YZC</span></span></li>
+<li><span class="a-list-item"><span class="a-text-bold">Item model number :<span> </span></span><span>17263</span></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>best</s:tag>
+    <s:tag>supplements</s:tag>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/6558754537532</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://medicsupplies.ca/products/6558743461948</id>
+    <published>2021-04-14T18:47:42-04:00</published>
+    <updated>2021-04-14T18:47:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://medicsupplies.ca/products/jamieson-vitamin-d-1000iu-tablets-240s"/>
+    <title>Jamieson Vitamin D 1000IU Tablets 240S</title>
+    <s:type></s:type>
+    <s:vendor>Medic Supplies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/9500/3196/products/ScreenShot2021-04-15at2.04.53PM.png?v=1618510051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Medic Supplies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div><strong>240 Vitamin D3 Tablets, 1000 IU</strong></div>
+<br>
+<div><strong>About This Supplement</strong></div>
+<ul class="a-unordered-list a-nostyle a-vertical a-spacing-none detail-bullet-list">
+<li data-mce-fragment="1"><span data-mce-fragment="1" class="a-list-item">Helps in the maintenance and development of bones and teeth</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1" class="a-list-item">Assists in calcium and phosphorus absorption</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1" class="a-list-item">Supports the maintenance of good health</span></li>
+</ul>
+<p><span data-mce-fragment="1" class="a-list-item">Medic Supplies is an Authorized Distributor for Jamieson Supplements</span></p>
+<p> </p>
+<ul>
+<li><span class="a-list-item"><span class="a-text-bold">Manufacturer :<span> </span></span><span>Jamieson</span></span></li>
+<li><span class="a-list-item"><span class="a-text-bold">Place of Business :<span> </span></span><span>Windsor, ON N8W 5B5, CA</span></span></li>
+<li><span class="a-list-item"><span class="a-text-bold">ASIN :<span> </span></span><span>B00BMTIZQ4</span></span></li>
+<li><span class="a-list-item"><span class="a-text-bold">Manufacturer reference :<span> </span></span><span>651465</span></span></li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>best</s:tag>
+    <s:tag>supplements</s:tag>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/6558743461948</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

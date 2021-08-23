@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://medicsupplies.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://medicsupplies.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://medicsupplies.ca/collections/disinfectants.atom"/>
+  <title>Medic Supplies</title>
+  <updated>2020-12-24T03:25:22-05:00</updated>
+  <author>
+    <name>Medic Supplies</name>
+  </author>
+  <entry>
+    <id>https://medicsupplies.ca/products/4650994696252</id>
+    <published>2020-12-24T03:25:22-05:00</published>
+    <updated>2020-12-24T03:25:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://medicsupplies.ca/products/liquid-sanitizer-500ml"/>
+    <title>Liquid Sanitizer 500ml</title>
+    <s:type></s:type>
+    <s:vendor>Medic Supplies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/9500/3196/products/sanitizerspray.jpg?v=1601521970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Medic Supplies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="O0" data-mce-fragment="1"><strong data-mce-fragment="1">80% Alcohol Liquid Sanitizer </strong></div>
+<div class="O0" data-mce-fragment="1"><span data-mce-fragment="1">1 Bottle of 16.9oz/500ml</span></div>
+<div class="O0" data-mce-fragment="1">
+<br><span data-mce-fragment="1"></span>
+</div>
+<div class="O0" data-mce-fragment="1"><span data-mce-fragment="1">Kills harmful bacteria and germs</span></div>
+<div class="O0" data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div class="O0" data-mce-fragment="1">
+<span data-mce-fragment="1">•</span><span data-mce-fragment="1">Canadian formulation, manufactured in Canada and all packaging locally sourced</span>
+</div>
+<div class="O0" data-mce-fragment="1">
+<div data-mce-fragment="1">
+<span data-mce-fragment="1">•</span><span data-mce-fragment="1">Health Canada approved NPN # 80099652</span>
+</div>
+<div data-mce-fragment="1">
+<span data-mce-fragment="1">•</span><span data-mce-fragment="1">Compliant product label</span>
+</div>
+<div data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div data-mce-fragment="1">
+<span data-mce-fragment="1"></span><br data-mce-fragment="1">
+</div>
+<br data-mce-fragment="1">
+<div data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">*Free 2-4 Day Canada Wide Express Shipping on orders over $99*</strong></span></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>best</s:tag>
+    <s:tag>hand</s:tag>
+    <s:tag>sanitizer</s:tag>
+    <s:tag>wipes</s:tag>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/4650994696252</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://medicsupplies.ca/products/4650995482684</id>
+    <published>2020-12-23T02:43:01-05:00</published>
+    <updated>2020-12-23T02:43:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://medicsupplies.ca/products/2-pack-liquid-sanitizer-500ml"/>
+    <title>2 Pack - Liquid Sanitizer 500ml</title>
+    <s:type></s:type>
+    <s:vendor>Medic Supplies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/9500/3196/products/santizerspray2.jpg?v=1601522144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Medic Supplies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="O0" data-mce-fragment="1"><strong data-mce-fragment="1">80% Alcohol Liquid Sanitizer </strong></div>
+<div class="O0" data-mce-fragment="1"><span data-mce-fragment="1">1 Bottle of 16.9oz/500ml</span></div>
+<div class="O0" data-mce-fragment="1">
+<br><span data-mce-fragment="1"></span>
+</div>
+<div class="O0" data-mce-fragment="1"><span data-mce-fragment="1">Kills harmful bacteria and germs</span></div>
+<div class="O0" data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div class="O0" data-mce-fragment="1">
+<span data-mce-fragment="1">•</span><span data-mce-fragment="1">Canadian formulation, manufactured in Canada and all packaging locally sourced</span>
+</div>
+<div class="O0" data-mce-fragment="1">
+<div data-mce-fragment="1">
+<span data-mce-fragment="1">•</span><span data-mce-fragment="1">Health Canada approved NPN # 80099652</span>
+</div>
+<div data-mce-fragment="1">
+<span data-mce-fragment="1">•</span><span data-mce-fragment="1">Compliant product label</span>
+</div>
+<div data-mce-fragment="1"><br></div>
+<br data-mce-fragment="1">
+<div data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">*Free 2-4 Day Canada Wide Express Shipping on orders over $99*</strong></span></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>best</s:tag>
+    <s:tag>hand</s:tag>
+    <s:tag>sanitizer</s:tag>
+    <s:tag>wipes</s:tag>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/4650995482684</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://medicsupplies.ca/products/4649610805308</id>
+    <published>2020-09-28T09:46:41-04:00</published>
+    <updated>2020-09-28T09:46:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://medicsupplies.ca/products/cordless-handheld-sprayer-for-disinfectants"/>
+    <title>Cordless Handheld Sprayer for Disinfectants by Dixon</title>
+    <s:type></s:type>
+    <s:vendor>Medic Supplies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/9500/3196/products/Haf4d88c80fba40e5bf4c23ee8df664f3u_1_copy_4fd21b1c-f5db-4540-9428-c3bbb12b158e.jpg?v=1609915657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Medic Supplies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;"><meta charset="utf-8"></div>
+<p data-mce-fragment="1"><strong data-mce-fragment="1"><span data-mce-fragment="1">Disinfect &amp; Sterilize Your Space Like The Professional Cleaners</span></strong></p>
+<p data-mce-fragment="1">Fill with disinfectant solution and easily clean common high-traffic areas including door handles, counters, seats, equipment &amp; more. Designed to save time and labor, spray less liquid, and cover more surfaces.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1"><span data-mce-fragment="1">FDA &amp; CE Certified Device</span></strong></p>
+<div class="woocommerce-product-details__short-description" data-mce-fragment="1">
+<meta charset="utf-8">
+<div class="woocommerce-product-details__short-description" data-mce-fragment="1"><span data-mce-fragment="1">- Enhanced Touchscreen with spray level control</span></div>
+<div class="woocommerce-product-details__short-description" data-mce-fragment="1"><span data-mce-fragment="1">- Large Solution capacity</span></div>
+<div class="woocommerce-product-details__short-description" data-mce-fragment="1"><span data-mce-fragment="1">- Designed for commercial use</span></div>
+<div class="woocommerce-product-details__short-description" data-mce-fragment="1"><span data-mce-fragment="1">- Blue Light to see areas that need cleaning</span></div>
+<div class="woocommerce-product-details__short-description" data-mce-fragment="1"><span data-mce-fragment="1">- Large battery reserve for continuous use</span></div>
+<div class="woocommerce-product-details__short-description" data-mce-fragment="1"><span data-mce-fragment="1"></span></div>
+<div class="woocommerce-product-details__short-description" data-mce-fragment="1"><span data-mce-fragment="1"></span></div>
+</div>
+<p class="woocommerce-product-details__short-description" data-mce-fragment="1"> </p>
+<p class="woocommerce-product-details__short-description" data-mce-fragment="1"><img alt="" src="https://cdn.shopify.com/s/files/1/0286/9500/3196/files/dixon_overview_image_copy_480x480.jpg?v=1609934717" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p class="woocommerce-product-details__short-description" data-mce-fragment="1"><strong data-mce-fragment="1">Medic Supplies #1 New Best-Seller!</strong></p>
+<p data-mce-fragment="1">Shipped Immediately From Toronto, ON</p>
+<p data-mce-fragment="1">The Dixon Cordless Handheld Sprayer for Disinfectants has quickly become Medic Supplies' top best-seller. We've received countless praise for how professional it looks in business settings, and how effective it is at applying nearly any liquid solution without waste. </p>
+<p> </p>
+<table width="100%" bgcolor="#F4F4F4" cellpadding="10" border-color="#344154">
+<tbody>
+<tr>
+<td>
+<p><strong>Purchase directly from our Toronto Warehouse!</strong><span> </span>Includes 1-year warranty plus<span> </span><strong>free</strong> 2-4-day shipping in Canada. </p>
+</td>
+</tr>
+</tbody>
+</table>
+<div></div>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1"><img style="display: block; margin-left: auto; margin-right: auto;" alt="" src="https://cdn.shopify.com/s/files/1/0504/4286/2765/files/Shipping_Banner_2caf5526-c813-47d8-ba1b-d11fa06575a9.png?v=1605092383" width="392" height="92"></strong></p>
+<p data-mce-fragment="1"> </p>
+<p style="text-align: center;" data-mce-fragment="1"><meta charset="utf-8"><strong data-mce-fragment="1">Curbside Pick Up Available - Call 1-888-271-3093</strong> </p>
+<p> <strong>Specifications</strong></p>
+<ul>
+<li>Brand - DIXON</li>
+<li>Rated voltage - AC100-120V, 50/60Hz</li>
+<li>Quick Charging input voltage - 5 V / 2A</li>
+<li>Material - Durable Plastic </li>
+<li>Rated power - 18 W</li>
+<li>Water container - 350ml </li>
+<li>Charging port - Type-C fast charging port</li>
+</ul>
+<form action="https://hocotech.com/product/home-office/health-instruments/yq6-non-contact-infrared-thermometer/" data-product_variations='[{"attributes":{"attribute_pa_product-color":"yq6-white"},"availability_html":"&lt;p class=\"stock in-stock\"&gt;100 in stock&lt;\/p&gt;\n","backorders_allowed":false,"dimensions":{"length":"","width":"","height":""},"dimensions_html":"N\/A","display_price":100,"display_regular_price":100,"image":{"title":"hoco yq6 infrared thermometer white","caption":"","url":"https:\/\/hocotech.com\/wp-content\/uploads\/2020\/03\/hoco-yq6-infrared-thermometer-white.jpg","alt":"hoco yq6 infrared thermometer white","src":"https:\/\/hocotech.com\/wp-content\/uploads\/2020\/03\/hoco-yq6-infrared-thermometer-white.jpg","srcset":"https:\/\/hocotech.com\/wp-content\/uploads\/2020\/03\/hoco-yq6-infrared-thermometer-white.jpg 800w, https:\/\/hocotech.com\/wp-content\/uploads\/2020\/03\/hoco-yq6-infrared-thermometer-white-300x300.jpg 300w, https:\/\/hocotech.com\/wp-content\/uploads\/2020\/03\/hoco-yq6-infrared-thermometer-white-150x150.jpg 150w, https:\/\/hocotech.com\/wp-content\/uploads\/2020\/03\/hoco-yq6-infrared-thermometer-white-768x768.jpg 768w, https:\/\/hocotech.com\/wp-content\/uploads\/2020\/03\/hoco-yq6-infrared-thermometer-white-146x146.jpg 146w, https:\/\/hocotech.com\/wp-content\/uploads\/2020\/03\/hoco-yq6-infrared-thermometer-white-50x50.jpg 50w, https:\/\/hocotech.com\/wp-content\/uploads\/2020\/03\/hoco-yq6-infrared-thermometer-white-75x75.jpg 75w, https:\/\/hocotech.com\/wp-content\/uploads\/2020\/03\/hoco-yq6-infrared-thermometer-white-85x85.jpg 85w, https:\/\/hocotech.com\/wp-content\/uploads\/2020\/03\/hoco-yq6-infrared-thermometer-white-80x80.jpg 80w, https:\/\/hocotech.com\/wp-content\/uploads\/2020\/03\/hoco-yq6-infrared-thermometer-white-640x640.jpg 640w","sizes":"(max-width: 800px) 100vw, 800px","full_src":"https:\/\/hocotech.com\/wp-content\/uploads\/2020\/03\/hoco-yq6-infrared-thermometer-white.jpg","full_src_w":800,"full_src_h":800,"gallery_thumbnail_src":"https:\/\/hocotech.com\/wp-content\/uploads\/2020\/03\/hoco-yq6-infrared-thermometer-white-300x300.jpg","gallery_thumbnail_src_w":300,"gallery_thumbnail_src_h":300,"thumb_src":"https:\/\/hocotech.com\/wp-content\/uploads\/2020\/03\/hoco-yq6-infrared-thermometer-white.jpg","thumb_src_w":800,"thumb_src_h":800,"src_w":800,"src_h":800},"image_id":"69867","is_downloadable":false,"is_in_stock":true,"is_purchasable":true,"is_sold_individually":"no","is_virtual":false,"max_qty":100,"min_qty":1,"price_html":"","sku":"729194","variation_description":"","variation_id":69880,"variation_is_active":true,"variation_is_visible":true,"weight":"","weight_html":"N\/A"}]' data-product_id="69876" enctype="multipart/form-data" method="post" class="variations_form cart" style="font-family: inherit; font-style: inherit; font-variant-caps: inherit; font-weight: inherit; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; box-sizing: border-box; -webkit-font-smoothing: antialiased; font-size: inherit; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: #ffffff; caret-color: #000000; color: #000000; margin: 30px 0px 2em; padding: 0px; border: 0px; font-stretch: inherit; line-height: inherit; vertical-align: baseline;" data-mce-fragment="1" current-image="69867">
+<div class="single_variation_wrap" data-mce-fragment="1">
+<div class="woocommerce-variation single_variation" data-mce-fragment="1">
+<div class="woocommerce-variation-description" data-mce-fragment="1"></div>
+<div class="woocommerce-variation-description" data-mce-fragment="1"></div>
+</div>
+<div class="woocommerce-variation single_variation" data-mce-fragment="1">
+<div class="woocommerce-variation-availability" data-mce-fragment="1"><strong data-mce-fragment="1">*Free 2-4 Day Canada-Wide Express Shipping on orders over $99*</strong></div>
+<br>
+<div class="woocommerce-variation-availability" data-mce-fragment="1"><strong data-mce-fragment="1"></strong></div>
+<div class="woocommerce-variation-availability" data-mce-fragment="1"><strong data-mce-fragment="1"></strong></div>
+<div class="woocommerce-variation-availability" data-mce-fragment="1"><strong data-mce-fragment="1"></strong></div>
+<div class="woocommerce-variation-availability" data-mce-fragment="1"><strong data-mce-fragment="1"></strong></div>
+<div class="woocommerce-variation-availability" data-mce-fragment="1"><a href="https://cdn.shopify.com/s/files/1/0286/9500/3196/files/27_Medic_Supplies_Catalogue_Disinfectant_Sprayer.pdf?v=1609173266" target="_blank">Click Here For Full Product Specifications</a></div>
+<p class="woocommerce-variation-availability" data-mce-fragment="1"><span style="text-decoration: underline;"><strong data-mce-fragment="1"><br></strong></span></p>
+<div class="woocommerce-variation-availability" data-mce-fragment="1"><span style="text-decoration: underline;"><strong data-mce-fragment="1"></strong></span></div>
+<div class="woocommerce-variation-availability" data-mce-fragment="1"></div>
+<div class="woocommerce-variation-availability" data-mce-fragment="1"><span style="text-decoration: underline;"><strong data-mce-fragment="1"></strong></span></div>
+<div class="woocommerce-variation-availability" data-mce-fragment="1"><span style="text-decoration: underline;"><strong data-mce-fragment="1"><img style="display: block; margin-left: auto; margin-right: auto;" height="54" width="53" src="https://cdn.shopify.com/s/files/1/0286/9500/3196/files/Medic_Supplies_Favicon.png?v=1587235625" alt=""></strong></span></div>
+<div class="woocommerce-variation-availability" data-mce-fragment="1"><span style="text-decoration: underline;"><strong data-mce-fragment="1"></strong></span></div>
+<div class="woocommerce-variation-availability" data-mce-fragment="1"><span style="text-decoration: underline;"><strong data-mce-fragment="1"></strong></span></div>
+<div class="woocommerce-variation-availability" data-mce-fragment="1">
+<p style="text-align: center;"><strong>FREQUENTLY ASKED QUESTIONS</strong></p>
+<p style="text-align: center;"> </p>
+<p><strong>What Solution Do I Use?</strong></p>
+<p>The device can handle any liquid solution. Many buyers use ethanol/alcohol mixed with water. We recommend using any liquid sanitizer that is approved for health use</p>
+<p><strong>How long does the one charge last?</strong></p>
+<p>A single charge will last many cleaning sessions and will run for hours. The sprayer has a built-in 2000mAh lithium battery which is powerful enough for continuous use. </p>
+<p><strong>How long does a refill last?</strong></p>
+<p>The <span data-mce-fragment="1">handheld sprayer for disinfectants </span>is designed to spray thin layers over large surfaces, making it very efficient at maximizing your solution. A single fill will last many cleaning sessions</p>
+<p><strong>When does it ship? How long does it take to get to me?</strong></p>
+<p>If your order is placed before 3 PM it will be shipped the same day. As soon as it leaves our warehouse, you will receive a<span> </span><strong>tracking number</strong><span> </span>to the email you used to purchase. You can follow your package online with the instructions provided. It takes 2-4 business days (sometimes sooner) from the order date to your door.</p>
+<p><strong>What does the order come with?</strong></p>
+<p>* 1 X Dixon Cordless Sprayer<br>* 1 X 350mL Fluid Container<br>* 1 X Type-C USB Charging Cable<br>* 1 X Product Manual</p>
+<p><strong>What are customers saying about this product?</strong></p>
+<p>The Cordless <span data-mce-fragment="1">Dixon disinfectant sprayer </span>has an extremely high satisfaction rate. We’ve had amazing feedback, and repeat purchases including many large corporations. If for any reason you’re not satisfied, reach out to us and we’ll make it right!</p>
+<p><strong>Have Any Other Questions?</strong></p>
+<p>We'd be happy to answer any inquiries. Shoot us an email at<span> </span><a href="mailto:support@medicsupplies.ca" target="_blank"><span>support@medicsupplies.ca</span></a><span> </span>and we will get back to you within a day</p>
+</div>
+</div>
+</div>
+</form></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>best</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>sanitizer</s:tag>
+    <s:tag>wipes</s:tag>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/4649610805308</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://medicsupplies.ca/products/4640639090748</id>
+    <published>2020-09-13T10:58:47-04:00</published>
+    <updated>2020-09-13T10:58:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://medicsupplies.ca/products/sanitary-wipes"/>
+    <title>Sanitary Wipes - Disinfectant Wipes</title>
+    <s:type></s:type>
+    <s:vendor>Medic Supplies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/9500/3196/products/CE-6768_1.jpg?v=1600008937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Medic Supplies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="lead">
+<p><strong>70 Pre-Moistened Sanitary Wet Wipes</strong></p>
+<meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">70% Isopropyl Alcohol</li>
+<li data-mce-fragment="1">Antibacterial Skin Cleanser</li>
+<li data-mce-fragment="1">Also for Hard Surfaces!</li>
+<li data-mce-fragment="1">Multi-Purpose Cleaning &amp; Disinfection</li>
+<li data-mce-fragment="1">Prevents the Risk of Infection</li>
+<li data-mce-fragment="1">Ready to Use</li>
+<li data-mce-fragment="1">Disinfects and Deodorizes</li>
+<li data-mce-fragment="1">Made in Canada</li>
+<li data-mce-fragment="1">NPN 80100528</li>
+</ul>
+<br>
+</div>
+<div class="lead"></div>
+<div class="lead"></div>
+<div class="lead"></div>
+<div class="lead">
+<div class="woocommerce-variation single_variation"><strong>Curbside Pick Up Available - Call 1-888-271-3093</strong></div>
+<div class="woocommerce-variation single_variation">
+<br>
+<div class="woocommerce-variation-description"></div>
+<div class="woocommerce-variation-availability"><strong>*Free 2-4 Day Canada Wide Express Shipping on orders over $99*</strong></div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>best</s:tag>
+    <s:tag>wipes</s:tag>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/4640639090748</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://medicsupplies.ca/products/4613996478524</id>
+    <published>2020-08-07T14:51:22-04:00</published>
+    <updated>2020-08-07T14:51:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://medicsupplies.ca/products/caviwipes-xl-jumbo-box"/>
+    <title>CaviWipes XL</title>
+    <s:type></s:type>
+    <s:vendor>Medic Supplies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/9500/3196/products/ScreenShot2020-08-07at2.49.40PM.png?v=1596826283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Medic Supplies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="lead">
+<p><strong>CaviWipes XL Jumbo Box</strong></p>
+<p><strong>9"x12" Wipes</strong></p>
+- 65 wipes per canister</div>
+<div class="lead">- Presaturated with CaviCide, CaviWipes is a cleaner and disinfectant, in one</div>
+<div class="lead">- CaviWipes are durable, nonwoven, nonabrasive towelettes that offer quick, easy-to-use, time-saving convenience</div>
+<div class="lead">- They're recommended for use on non-porous surfaces and fixture</div>
+<div class="lead">- Ideal for operating rooms, surgical centers, neonatal units, medical and dental operatories and other critical-care areas</div>
+<div class="lead"></div>
+<div class="lead"></div>
+<div class="lead"></div>
+<div class="lead">
+<div class="woocommerce-variation single_variation"><strong>Curbside Pick Up Available - Call 1-888-271-3093</strong></div>
+<div class="woocommerce-variation single_variation">
+<br>
+<div class="woocommerce-variation-description"></div>
+<div class="woocommerce-variation-availability"><strong>*Free 2-4 Day Canada Wide Express Shipping on orders over $99*</strong></div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>wipes</s:tag>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/4613996478524</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

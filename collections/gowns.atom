@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://medicsupplies.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://medicsupplies.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://medicsupplies.ca/collections/gowns.atom"/>
+  <title>Medic Supplies</title>
+  <updated>2020-08-04T12:25:55-04:00</updated>
+  <author>
+    <name>Medic Supplies</name>
+  </author>
+  <entry>
+    <id>https://medicsupplies.ca/products/4612038819900</id>
+    <published>2020-08-04T12:25:55-04:00</published>
+    <updated>2020-08-04T12:25:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://medicsupplies.ca/products/set-of-15-disposable-isolation-gowns"/>
+    <title>Set of 15 Disposable Isolation Gowns</title>
+    <s:type></s:type>
+    <s:vendor>MedicsuppliesCA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/9500/3196/products/Gowns15x.jpg?v=1596558293"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MedicsuppliesCA<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            99.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>15x Blue Disposable Isolation Gown</strong></p>
+<p>Size: Regular <br>Fluid resistant gowns feature a polyethylene coating <br>Impervious Polyethylene <br>Latex-Free</p>
+<div class="woocommerce-variation single_variation">
+<div class="woocommerce-variation-description"></div>
+<div class="woocommerce-variation-availability">
+<strong>*Free 2-4 Day Canada Wide Express Shipping on orders over $99*</strong><br>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gown</s:tag>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/4612038819900</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://medicsupplies.ca/products/4496096788540</id>
+    <published>2020-04-13T19:08:25-04:00</published>
+    <updated>2020-04-13T19:08:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://medicsupplies.ca/products/medical-gown"/>
+    <title>Disposable Isolation Gown</title>
+    <s:type></s:type>
+    <s:vendor>MedicsuppliesCA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/9500/3196/products/product-image-1353136450.jpg?v=1596557787"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MedicsuppliesCA<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Blue Disposable Isolation Gown</strong></p>
+<p>Size: Regular <br>Fluid resistant gowns feature a polyethylene coating <br>Impervious Polyethylene <br>Latex-Free</p>
+<div class="woocommerce-variation single_variation">
+<div class="woocommerce-variation-description"></div>
+<div class="woocommerce-variation-availability">
+<strong>*Free 2-4 Day Canada Wide Express Shipping on orders over $99*</strong><br>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gown</s:tag>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/4496096788540</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>35586066-blue</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://medicsupplies.ca/products/4496096755772</id>
+    <published>2020-04-13T19:08:25-04:00</published>
+    <updated>2020-04-13T19:08:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://medicsupplies.ca/products/white-lab-coat"/>
+    <title>White Lab Coat</title>
+    <s:type></s:type>
+    <s:vendor>MedicsuppliesCA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/9500/3196/products/product-image-1200168624.jpg?v=1586819308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MedicsuppliesCA<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            64.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Material:</strong> COTTON</span><br><span><strong>Material:</strong> Polyester</span><br><span><strong>Item Type:</strong> Doctor's Clothing</span><br><span><strong>Gender(Adult):</strong> Unisex</span><br><span><strong>Style:</strong> White Coat</span><br><span><strong>Size:</strong> M,L,XL,2XL,3XL,4XL</span><br><span><strong>Color:</strong> White</span><br><span><strong>Sleeve:</strong> Full/Short Sleeve</span><br><span><strong>Work Wear Uniform:</strong> Medical Uniform</span><br><span><strong>Lab Coat:</strong> Scrub</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gown</s:tag>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/4496096755772</id>
+      <title>Full Sleeve Coat / M</title>
+      <s:price currency="CAD">64.99</s:price>
+      <s:sku>32158590-full-sleeve-coat-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/4496096755772</id>
+      <title>Full Sleeve Coat / L</title>
+      <s:price currency="CAD">64.99</s:price>
+      <s:sku>32158590-full-sleeve-coat-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/4496096755772</id>
+      <title>Full Sleeve Coat / XXXL</title>
+      <s:price currency="CAD">64.99</s:price>
+      <s:sku>32158590-full-sleeve-coat-xxxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/4496096755772</id>
+      <title>Full Sleeve Coat / XL</title>
+      <s:price currency="CAD">64.99</s:price>
+      <s:sku>32158590-full-sleeve-coat-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/4496096755772</id>
+      <title>Full Sleeve Coat / XXL</title>
+      <s:price currency="CAD">64.99</s:price>
+      <s:sku>32158590-full-sleeve-coat-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://medicsupplies.ca/products/4496096723004</id>
+    <published>2020-04-13T19:08:25-04:00</published>
+    <updated>2020-04-13T19:08:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://medicsupplies.ca/products/medical-scrubs"/>
+    <title>Medical Scrubs</title>
+    <s:type></s:type>
+    <s:vendor>MedicsuppliesCA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/9500/3196/products/product-image-1353838097.jpg?v=1588275032"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MedicsuppliesCA<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Material:</strong> COTTON</span><br><span><strong>Material:</strong> Polyester</span><br><span><strong>Item Type:</strong> Scrub Tops</span><br><span><strong>size:</strong> S,M,L,XL,XXL</span><br><span><strong>Color:</strong> White,blue,Green,black,red,purple,Cartoon print</span><br><span><strong>gender:</strong> unisex</span><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gown</s:tag>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/4496096723004</id>
+      <title>top / L</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>35604145-top-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/4496096723004</id>
+      <title>top 5 / S</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>35604145-top-5-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/4496096723004</id>
+      <title>top 5 / M</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>35604145-top-5-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/4496096723004</id>
+      <title>top 5 / L</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>35604145-top-5-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/4496096723004</id>
+      <title>top 5 / XL</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>35604145-top-5-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/4496096723004</id>
+      <title>top 5 / XXL</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>35604145-top-5-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

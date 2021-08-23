@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://medicsupplies.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://medicsupplies.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://medicsupplies.ca/collections/living-walking-aids.atom"/>
+  <title>Medic Supplies</title>
+  <updated>2020-12-27T02:14:09-05:00</updated>
+  <author>
+    <name>Medic Supplies</name>
+  </author>
+  <entry>
+    <id>https://medicsupplies.ca/products/4705768308796</id>
+    <published>2020-12-27T02:14:09-05:00</published>
+    <updated>2020-12-27T02:14:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://medicsupplies.ca/products/dual-strap-neoprene-knee-brace"/>
+    <title>Dual Strap Neoprene Knee Brace</title>
+    <s:type></s:type>
+    <s:vendor>Medic Supplies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/9500/3196/products/14b5b784-f855-4b10-bb3d-39d2e83979d6.png?v=1609052095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Medic Supplies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Premium Neoprene Knee Support Brace</strong></p>
+<p>Premium knee braces are suitable for those suffering from arthritis, recovering from ACL, LCL, MCL, meniscus tears, tendonitis pain, strain, sprains, after surgery, and other injuries.</p>
+<p><strong>#1 Medic Supplies Best Seller in Bracing &amp; Support</strong><br>Shipped Immediately from Toronto, ON &amp; Vancouver, BC</p>
+<ul>
+<li><span>Soft breathable neoprene (80%)</span></li>
+<li><span>4 inserted metal stabilizers</span></li>
+<li><span>Open patella with stabilizer disk</span></li>
+<li><span>Dual strap with adjustable velcro</span></li>
+<li><span>Anti-slip grip </span></li>
+</ul>
+<p> <meta charset="utf-8"></p>
+<table cellpadding="10" bgcolor="#F4F4F4" width="100%" border-color="#344154">
+<tbody>
+<tr>
+<td>
+<p><strong>Purchase directly from our Toronto Warehouse!</strong><span> </span>Includes 1-year warranty plus<span> </span><strong>free</strong> 2-4-day shipping in Canada. </p>
+<div></div>
+</td>
+</tr>
+</tbody>
+</table>
+<div><br></div>
+<p data-mce-fragment="1"> </p>
+<p style="text-align: center;"><span style="text-decoration: underline;" data-mce-style="text-decoration: underline;"><strong>Please See The Sizing Chart to Determine Your Best Fit</strong></span></p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0286/9500/3196/files/Screen_Shot_2020-12-27_at_10.31.23_AM.png?v=1609051456" width="516" height="263" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p> </p>
+<p>Specifications:</p>
+<ul data-spm-anchor-id="a2g0o.detail.0.i9.33f26e28nms7Cz" class="product-specs-list util-clearfix">
+<li class="product-prop line-limit-length">
+<span class="property-title">Brand Name: </span><span title="WIN.MAX" class="property-desc line-limit-length">WIN.MAX</span>
+</li>
+<li class="product-prop line-limit-length">
+<span class="property-title">Age: </span><span title="Adult" class="property-desc line-limit-length">Adult</span>
+</li>
+<li class="product-prop line-limit-length">
+<span class="property-title">Material: </span><span title="neoprene" class="property-desc line-limit-length">neoprene</span>
+</li>
+<li class="product-prop line-limit-length">
+<span class="property-title">Product: </span><span title="Neoprene waterproof soft elastic adjustable knee support" class="property-desc line-limit-length">Neoprene waterproof soft elastic adjustable knee support</span>
+</li>
+<li class="product-prop line-limit-length">
+<span class="property-title">knee support Material: </span><span title="Neoprene" class="property-desc line-limit-length">Neoprene</span>
+</li>
+</ul>
+<p><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1"> </span><meta charset="utf-8"><strong data-mce-fragment="1">*Free 2-4 Day Canada Wide Express Shipping on orders over $99*</strong><br></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aids</s:tag>
+    <s:tag>brace</s:tag>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/4705768308796</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

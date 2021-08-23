@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://medicsupplies.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://medicsupplies.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://medicsupplies.ca/collections/first-aid.atom"/>
+  <title>Medic Supplies</title>
+  <updated>2020-04-13T19:25:41-04:00</updated>
+  <author>
+    <name>Medic Supplies</name>
+  </author>
+  <entry>
+    <id>https://medicsupplies.ca/products/4496114155580</id>
+    <published>2020-04-13T19:25:41-04:00</published>
+    <updated>2020-04-13T19:25:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://medicsupplies.ca/products/outdoor-survival-tourniquet"/>
+    <title>Outdoor survival tourniquet</title>
+    <s:type></s:type>
+    <s:vendor>MedicsuppliesCA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/9500/3196/products/product-image-1349275587.jpg?v=1588295164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MedicsuppliesCA<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong></strong></span><span><strong>Outdoor survival tourniquet</strong></span></p>
+<p><span><strong>Type:</strong> First Aid Kits</span></p>
+<p><span>Comes as shown in picture</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>first aid</s:tag>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/4496114155580</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>25795130-heise</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://medicsupplies.ca/products/4496114221116</id>
+    <published>2020-04-13T19:25:40-04:00</published>
+    <updated>2020-04-13T19:25:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://medicsupplies.ca/products/first-aid-box"/>
+    <title>First Aid Box</title>
+    <s:type></s:type>
+    <s:vendor>MedicsuppliesCA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/9500/3196/products/product-image-1272153899.jpg?v=1588294879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MedicsuppliesCA<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> iTECHOR</span><br><span><strong>Model Number:</strong> s2554475</span><br><span><strong>Material:</strong> Plastic</span><br><span><strong>Load:</strong> 5kg</span><br><span><strong>Style:</strong> Modern</span><br><span><strong>Technics:</strong> Glossy</span><br><span><strong>Shape:</strong> Rectangle</span><br><span><strong>Product:</strong> Medical Kit</span><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>first aid</s:tag>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/4496114221116</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>22671217-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://medicsupplies.ca/products/4496114188348</id>
+    <published>2020-04-13T19:25:40-04:00</published>
+    <updated>2020-04-13T19:25:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://medicsupplies.ca/products/alcohol-pads"/>
+    <title>Alcohol Pads</title>
+    <s:type></s:type>
+    <s:vendor>MedicsuppliesCA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/9500/3196/products/image.png?v=1588294952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MedicsuppliesCA<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Box of 200 pads</strong></p>
+<p><strong>Item Type: </strong>Wet Wipes</p>
+<p><strong>Model Number:</strong> 060233</p>
+<p><strong>Material:</strong> non-woven</p>
+<p><strong>Size:</strong> 35mm</p>
+<p><strong>Weight:</strong> 35g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>first aid</s:tag>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/4496114188348</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>3141086</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://medicsupplies.ca/products/4496114122812</id>
+    <published>2020-04-13T19:25:40-04:00</published>
+    <updated>2020-04-13T19:25:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://medicsupplies.ca/products/military-survival-kit"/>
+    <title>Military Survival kit</title>
+    <s:type></s:type>
+    <s:vendor>MedicsuppliesCA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/9500/3196/products/product-image-1351172386.jpg?v=1588295258"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MedicsuppliesCA<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> EMAK</span><br><span><strong>Type:</strong> First Aid Kits</span><br><span><strong>Product name:</strong> Outdoor Survival First Aid Kits</span><br><span><strong>Survival kit set 1:</strong> Multifunctional Survival Wristband paracord</span><br><span><strong>Survival kit set 2:</strong> SOS Flashlight ( 3 function)</span><br><span><strong>Survival kit set 3:</strong> Self-defense Tactical pen</span><br><span><strong>Survival kit set 4:</strong> Folding knife</span><br><span><strong>Survival kit set 5:</strong> Golden compass</span><br><span><strong>Survival kit set 6:</strong> Anti-insect emergency blanket</span><br><span><strong>Survival kit set 7:</strong> Whistle</span><br><span><strong>Survival kit set 8:</strong> Water Bottle Clip</span><br><span><strong>Survival kit set 9:</strong> Multifunctional Saber Card</span><br><span><strong>Survival kit set 10:</strong> mini keychain leds</span><br><span><strong>Survival kit set 11:</strong> Wire saw</span><br><span><strong>Survival kit set 12:</strong> IP65 Waterproof good quality survival box</span><br><span><strong>Survival kit set 13:</strong> Green 532NM Laser pointer</span><br><span><strong>Survival garget:</strong> Outdoor camping travel kit equipment</span><br><span><strong>Camping kit:</strong> Survival gear kit garget</span><br><span><strong>Survival first aid kit:</strong> Survival camp kit</span><br><span><strong>Travel camp kit tools:</strong> camping, Travel, adventure, survival and other emergency</span><br><span><strong>Outdoor EDC tools:</strong> multifunctional survival wristband paracord</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>first aid</s:tag>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/4496114122812</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>24906653-wristband-and-laser</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://medicsupplies.ca/products/4496114057276</id>
+    <published>2020-04-13T19:25:40-04:00</published>
+    <updated>2020-04-13T19:25:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://medicsupplies.ca/products/emergency-sleeping-bag"/>
+    <title>Emergency Sleeping Bag</title>
+    <s:type></s:type>
+    <s:vendor>MedicsuppliesCA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/9500/3196/products/product-image-1334141148.jpg?v=1588295293"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MedicsuppliesCA<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Comfortable Temperature Scale:</strong> [0℃~-10℃]</span><br><span><strong>Single/Double Sleeping Bag:</strong> Splicing Single Sleeping Bag</span><br><span><strong>Applicable People:</strong> Adult</span><br><span><strong>Length:</strong> Lengthened (1.8 m-2 m Height)</span><br><span><strong>Season:</strong> Spring &amp; Autumn</span><br><span><strong>Size:</strong> 78.74in*35.43in</span><br><span><strong>Model Number:</strong> Emergency Sleeping Bag</span><br><span><strong>Type:</strong> Cold Weather</span><br><span><strong>Sleeping Bag Temperature Scale Category:</strong> Spring and Autumn Sleeping Bag</span><br><span><strong>is_customized:</strong> No</span><br><span><strong>Category:</strong> Sleeping Bag Accessories</span><br><span><strong>Filling:</strong> pe</span><br><span><strong>Fabric:</strong> pe</span><br><span><strong>Style:</strong> Envelope Type</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>first aid</s:tag>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/4496114057276</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>29066897-1pc-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

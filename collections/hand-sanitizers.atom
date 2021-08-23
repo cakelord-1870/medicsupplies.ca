@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://medicsupplies.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://medicsupplies.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://medicsupplies.ca/collections/hand-sanitizers.atom"/>
+  <title>Medic Supplies</title>
+  <updated>2020-12-24T03:25:22-05:00</updated>
+  <author>
+    <name>Medic Supplies</name>
+  </author>
+  <entry>
+    <id>https://medicsupplies.ca/products/4650994696252</id>
+    <published>2020-12-24T03:25:22-05:00</published>
+    <updated>2020-12-24T03:25:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://medicsupplies.ca/products/liquid-sanitizer-500ml"/>
+    <title>Liquid Sanitizer 500ml</title>
+    <s:type></s:type>
+    <s:vendor>Medic Supplies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/9500/3196/products/sanitizerspray.jpg?v=1601521970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Medic Supplies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="O0" data-mce-fragment="1"><strong data-mce-fragment="1">80% Alcohol Liquid Sanitizer </strong></div>
+<div class="O0" data-mce-fragment="1"><span data-mce-fragment="1">1 Bottle of 16.9oz/500ml</span></div>
+<div class="O0" data-mce-fragment="1">
+<br><span data-mce-fragment="1"></span>
+</div>
+<div class="O0" data-mce-fragment="1"><span data-mce-fragment="1">Kills harmful bacteria and germs</span></div>
+<div class="O0" data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div class="O0" data-mce-fragment="1">
+<span data-mce-fragment="1">•</span><span data-mce-fragment="1">Canadian formulation, manufactured in Canada and all packaging locally sourced</span>
+</div>
+<div class="O0" data-mce-fragment="1">
+<div data-mce-fragment="1">
+<span data-mce-fragment="1">•</span><span data-mce-fragment="1">Health Canada approved NPN # 80099652</span>
+</div>
+<div data-mce-fragment="1">
+<span data-mce-fragment="1">•</span><span data-mce-fragment="1">Compliant product label</span>
+</div>
+<div data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div data-mce-fragment="1">
+<span data-mce-fragment="1"></span><br data-mce-fragment="1">
+</div>
+<br data-mce-fragment="1">
+<div data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">*Free 2-4 Day Canada Wide Express Shipping on orders over $99*</strong></span></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>best</s:tag>
+    <s:tag>hand</s:tag>
+    <s:tag>sanitizer</s:tag>
+    <s:tag>wipes</s:tag>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/4650994696252</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://medicsupplies.ca/products/4593251123260</id>
+    <published>2020-12-24T03:24:59-05:00</published>
+    <updated>2020-12-24T03:24:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://medicsupplies.ca/products/hand-sanitizer-8oz"/>
+    <title>Hand Sanitizer 8oz</title>
+    <s:type></s:type>
+    <s:vendor>Medic Supplies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/9500/3196/products/IMG_2928.jpg?v=1594214528"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Medic Supplies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="O0"><strong>75% Alcohol Hand Sanitizer </strong></div>
+<div class="O0"><span>Bottle of 8oz/236ml</span></div>
+<div class="O0"><span></span></div>
+<br>
+<div class="O0"><span>Kills harmful bacteria and germs</span></div>
+<br>
+<div class="O0"><span></span></div>
+<div class="O0">
+<span>•</span><span>Canadian formulation, manufactured in Canada and all packaging locally sourced</span>
+</div>
+<div class="O0">
+<div>
+<span>•</span><span>Health Canada approved NPN # 80099652</span>
+</div>
+<div>
+<span>•</span><span>Compliant product label</span>
+</div>
+<div><br></div>
+<div><span></span></div>
+<br>
+<div><span><strong>*Free 2-4 Day Canada Wide Express Shipping on orders over $99*</strong></span></div>
+<div><span><strong>*Free Next Day Delivery in Ontario*</strong></span></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>best</s:tag>
+    <s:tag>hand</s:tag>
+    <s:tag>sanitizer</s:tag>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/4593251123260</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://medicsupplies.ca/products/4558809038908</id>
+    <published>2020-12-24T03:22:40-05:00</published>
+    <updated>2020-12-24T03:22:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://medicsupplies.ca/products/24-pack-daily-shield-hand-sanitizer-8oz"/>
+    <title>24 Pack - Hand Sanitizer 8oz</title>
+    <s:type></s:type>
+    <s:vendor>Medic Supplies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/9500/3196/products/handsanitizergel24.jpg?v=1594075880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Medic Supplies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            129.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="O0"><strong>75% Alcohol Hand Sanitizer </strong></div>
+<div class="O0"><span>24 Bottles of 8oz/236ml</span></div>
+<div class="O0"><span></span></div>
+<br>
+<div class="O0"><span>Kills harmful bacteria and germs</span></div>
+<br>
+<div class="O0"><span></span></div>
+<div class="O0">
+<span>•</span><span>Canadian formulation, manufactured in Canada and all packaging locally sourced</span>
+</div>
+<div class="O0">
+<div>
+<span>•</span><span>Health Canada approved NPN # 80099652</span>
+</div>
+<div>
+<span>•</span><span>Compliant product label</span>
+</div>
+<div><br></div>
+<div><span></span></div>
+<br>
+<div><span><strong>*Free 2-4 Day Canada Wide Express Shipping on orders over $99*</strong></span></div>
+<div><span><strong>*Free Next Day Delivery in Ontario*</strong></span></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>best</s:tag>
+    <s:tag>hand</s:tag>
+    <s:tag>sanitizer</s:tag>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/4558809038908</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://medicsupplies.ca/products/4650995482684</id>
+    <published>2020-12-23T02:43:01-05:00</published>
+    <updated>2020-12-23T02:43:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://medicsupplies.ca/products/2-pack-liquid-sanitizer-500ml"/>
+    <title>2 Pack - Liquid Sanitizer 500ml</title>
+    <s:type></s:type>
+    <s:vendor>Medic Supplies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/9500/3196/products/santizerspray2.jpg?v=1601522144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Medic Supplies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="O0" data-mce-fragment="1"><strong data-mce-fragment="1">80% Alcohol Liquid Sanitizer </strong></div>
+<div class="O0" data-mce-fragment="1"><span data-mce-fragment="1">1 Bottle of 16.9oz/500ml</span></div>
+<div class="O0" data-mce-fragment="1">
+<br><span data-mce-fragment="1"></span>
+</div>
+<div class="O0" data-mce-fragment="1"><span data-mce-fragment="1">Kills harmful bacteria and germs</span></div>
+<div class="O0" data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div class="O0" data-mce-fragment="1">
+<span data-mce-fragment="1">•</span><span data-mce-fragment="1">Canadian formulation, manufactured in Canada and all packaging locally sourced</span>
+</div>
+<div class="O0" data-mce-fragment="1">
+<div data-mce-fragment="1">
+<span data-mce-fragment="1">•</span><span data-mce-fragment="1">Health Canada approved NPN # 80099652</span>
+</div>
+<div data-mce-fragment="1">
+<span data-mce-fragment="1">•</span><span data-mce-fragment="1">Compliant product label</span>
+</div>
+<div data-mce-fragment="1"><br></div>
+<br data-mce-fragment="1">
+<div data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">*Free 2-4 Day Canada Wide Express Shipping on orders over $99*</strong></span></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>best</s:tag>
+    <s:tag>hand</s:tag>
+    <s:tag>sanitizer</s:tag>
+    <s:tag>wipes</s:tag>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/4650995482684</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://medicsupplies.ca/products/4621284900924</id>
+    <published>2020-08-18T18:22:29-04:00</published>
+    <updated>2020-08-18T18:22:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://medicsupplies.ca/products/wall-mounted-sanitizer-dispenser-with-infrared-thermometer"/>
+    <title>Wall Mounted Automatic Hand Sanitizer Dispenser With Infrared Thermometer</title>
+    <s:type></s:type>
+    <s:vendor>Medic Supplies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/9500/3196/products/Hb2976f0b381c4f8c99d41059e819e64aRcopy.jpg?v=1604070605"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Medic Supplies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            249.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Wall Mounted Touchless Sanitizer Dispenser With Built-In Infrared Thermometer V2.0</strong> </p>
+<div class="woocommerce-product-details__short-description"><strong>In-Stock &amp; Shipped Immediately from Toronto, ON &amp; Vancouver, BC</strong></div>
+<div class="woocommerce-product-details__short-description"><strong></strong></div>
+<div class="woocommerce-product-details__short-description">
+<p><strong><span>Medic Supplies - Top Selling New Product!</span></strong></p>
+<p><strong><span>FDA &amp; CE Certified Device</span></strong> </p>
+<p><strong><span>*Version 2.0 Is Here!*</span></strong></p>
+<p><span>Improvements:</span></p>
+<p><span>- Battery operated option - 4x C Batteries for cordless use</span><br> <span>- Dispense volume control - Set your preferred amount of dispense</span><br> <span>- New Sleek design for wall or stand</span></p>
+<div class="woocommerce-product-details__short-description"><strong>Automatic Temperature Reading </strong></div>
+<div class="woocommerce-product-details__short-description"><span>- Non-contact Temperature measurement</span></div>
+<div class="woocommerce-product-details__short-description"><span>- High-temperature alert warning<br></span></div>
+<div class="woocommerce-product-details__short-description"><span>- Quick measurement(within 1s)</span></div>
+<div class="woocommerce-product-details__short-description"><span>- High accuracy(within 0.2℃) </span></div>
+<div class="woocommerce-product-details__short-description"><br></div>
+<div class="woocommerce-product-details__short-description"><strong>Touchless Sanitizer Dispenser</strong></div>
+<div class="woocommerce-product-details__short-description">- 1000ml Container</div>
+<div class="woocommerce-product-details__short-description">- Automatic Dispensing</div>
+<div class="woocommerce-product-details__short-description">- Automatic Sleep / Wake to preserve energy</div>
+<div class="woocommerce-product-details__short-description"></div>
+<div class="woocommerce-product-details__short-description"></div>
+<div class="woocommerce-product-details__short-description"><strong></strong></div>
+<div class="woocommerce-product-details__short-description"><strong></strong></div>
+<div class="woocommerce-product-details__short-description"><strong></strong></div>
+<div class="woocommerce-product-details__short-description"><strong></strong></div>
+<div class="woocommerce-product-details__short-description"><strong></strong></div>
+<div class="woocommerce-product-details__short-description"><strong></strong></div>
+<div class="woocommerce-product-details__short-description"><strong></strong></div>
+<div class="woocommerce-product-details__short-description"><strong></strong></div>
+<div class="woocommerce-product-details__short-description">
+<strong></strong>Temperature measurement distance: <span>1-10cm</span>
+</div>
+<div class="woocommerce-product-details__short-description">Measuring range: 33 ℃ -43 ℃</div>
+<div class="woocommerce-product-details__short-description">Accuracy: (± 0.2 ℃-± 0.3 ℃).</div>
+<div class="woocommerce-product-details__short-description">Power supply: <span>DC 5V 1A</span>
+</div>
+<div class="woocommerce-product-details__short-description">Size: <span>119x133x280m</span>m</div>
+</div>
+<form class="variations_form cart" method="post" enctype="multipart/form-data" data-product_id="69876" data-product_variations='[{"attributes":{"attribute_pa_product-color":"yq6-white"},"availability_html":"&lt;p class=\"stock in-stock\"&gt;100 in stock&lt;\/p&gt;\n","backorders_allowed":false,"dimensions":{"length":"","width":"","height":""},"dimensions_html":"N\/A","display_price":100,"display_regular_price":100,"image":{"title":"hoco yq6 infrared thermometer white","caption":"","url":"https:\/\/hocotech.com\/wp-content\/uploads\/2020\/03\/hoco-yq6-infrared-thermometer-white.jpg","alt":"hoco yq6 infrared thermometer white","src":"https:\/\/hocotech.com\/wp-content\/uploads\/2020\/03\/hoco-yq6-infrared-thermometer-white.jpg","srcset":"https:\/\/hocotech.com\/wp-content\/uploads\/2020\/03\/hoco-yq6-infrared-thermometer-white.jpg 800w, https:\/\/hocotech.com\/wp-content\/uploads\/2020\/03\/hoco-yq6-infrared-thermometer-white-300x300.jpg 300w, https:\/\/hocotech.com\/wp-content\/uploads\/2020\/03\/hoco-yq6-infrared-thermometer-white-150x150.jpg 150w, https:\/\/hocotech.com\/wp-content\/uploads\/2020\/03\/hoco-yq6-infrared-thermometer-white-768x768.jpg 768w, https:\/\/hocotech.com\/wp-content\/uploads\/2020\/03\/hoco-yq6-infrared-thermometer-white-146x146.jpg 146w, https:\/\/hocotech.com\/wp-content\/uploads\/2020\/03\/hoco-yq6-infrared-thermometer-white-50x50.jpg 50w, https:\/\/hocotech.com\/wp-content\/uploads\/2020\/03\/hoco-yq6-infrared-thermometer-white-75x75.jpg 75w, https:\/\/hocotech.com\/wp-content\/uploads\/2020\/03\/hoco-yq6-infrared-thermometer-white-85x85.jpg 85w, https:\/\/hocotech.com\/wp-content\/uploads\/2020\/03\/hoco-yq6-infrared-thermometer-white-80x80.jpg 80w, https:\/\/hocotech.com\/wp-content\/uploads\/2020\/03\/hoco-yq6-infrared-thermometer-white-640x640.jpg 640w","sizes":"(max-width: 800px) 100vw, 800px","full_src":"https:\/\/hocotech.com\/wp-content\/uploads\/2020\/03\/hoco-yq6-infrared-thermometer-white.jpg","full_src_w":800,"full_src_h":800,"gallery_thumbnail_src":"https:\/\/hocotech.com\/wp-content\/uploads\/2020\/03\/hoco-yq6-infrared-thermometer-white-300x300.jpg","gallery_thumbnail_src_w":300,"gallery_thumbnail_src_h":300,"thumb_src":"https:\/\/hocotech.com\/wp-content\/uploads\/2020\/03\/hoco-yq6-infrared-thermometer-white.jpg","thumb_src_w":800,"thumb_src_h":800,"src_w":800,"src_h":800},"image_id":"69867","is_downloadable":false,"is_in_stock":true,"is_purchasable":true,"is_sold_individually":"no","is_virtual":false,"max_qty":100,"min_qty":1,"price_html":"","sku":"729194","variation_description":"","variation_id":69880,"variation_is_active":true,"variation_is_visible":true,"weight":"","weight_html":"N\/A"}]' action="https://hocotech.com/product/home-office/health-instruments/yq6-non-contact-infrared-thermometer/" style="font-family: inherit; font-style: inherit; font-variant-caps: inherit; font-weight: inherit; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; box-sizing: border-box; -webkit-font-smoothing: antialiased; font-size: inherit; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: #ffffff; caret-color: #000000; color: #000000; margin: 30px 0px 2em; padding: 0px; border: 0px; font-stretch: inherit; line-height: inherit; vertical-align: baseline;" current-image="69867" data-mce-style="font-family: inherit; font-style: inherit; font-variant-caps: inherit; font-weight: inherit; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; box-sizing: border-box; -webkit-font-smoothing: antialiased; font-size: inherit; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: #ffffff; caret-color: #000000; color: #000000; margin: 30px 0px 2em; padding: 0px; border: 0px; font-stretch: inherit; line-height: inherit; vertical-align: baseline;">
+<div class="single_variation_wrap">
+<div class="woocommerce-variation single_variation">
+<div class="woocommerce-variation-availability"><strong>*Free 2-4 Day Canada Wide Express Shipping*</strong></div>
+<div class="woocommerce-variation-availability"><a href="https://cdn.shopify.com/s/files/1/0286/9500/3196/files/Medic_Supplies_Wall_Thermometer_Dispensor_Catalogue_2.pdf?v=1598891623" target="_blank"><span style="text-decoration: underline;" data-mce-style="text-decoration: underline;">Click Here For Full Product Specifications</span></a></div>
+<div class="woocommerce-variation-availability">
+<span style="text-decoration: underline;" data-mce-style="text-decoration: underline;"></span><br>
+</div>
+<div class="woocommerce-variation-availability">
+<p><b>Wall Mounted Automatic Hand Sanitizer Dispenser With Infrared Thermometer</b></p>
+<p><span style="font-weight: 400;">As time is passing, the ‘new normal’ is becoming a way of life for everyone, new habits and newly gained consciousness about health and hygiene are causing people to be more health-conscious, maintain distance and follow COVID regulations. Out of all, hand sanitization has found its universal acceptance. Automatic</span> hand sanitizer with temperature sensors<span style="font-weight: 400;"> is an excellent alternative to traditional hand sanitizers, especially in the COVID era. Even government and other public facilities are installing hand sanitizers at places that become a shared means for transmission of disease.</span></p>
+<p><span style="font-weight: 400;">Many are opting for </span>wall-mounted automatic hand sanitizer dispensers<span style="font-weight: 400;"> to avoid contact as they offer an added layer of protection to the users. Our Automatic hand sanitizer dispenser comes with an Infrared thermometer which gives you the automatic temperature reading without any contact.</span></p>
+<p><span style="font-weight: 400;">Hands contribute the maximum to the transmission of diseases. Places like public washrooms, eating places, or workspaces are shared means that have higher chances of transmitting diseases among the staff or customers, hence personal hygiene becomes a point of concern.</span></p>
+<p><span style="font-weight: 400;">Basic benefits of using the automatic hand sanitizer dispenser</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">It gives you a truly touchless experience, involving no hassle of pressing buttons, pumps, and handles.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">User friendly, the ease of use ensures its feasibility. It requires no effort to operate hence everyone can use it without having to figure out how the handles might work.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">It delivers the standard dose to everyone, enough to clean both hands. It causes minimum to no wastage, which isn’t the case with the manual hand sanitizers that at times tend to lead to wastage.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">It eliminates a contact point, unlike manual hand sanitizers that require pushing of the pump to release the sanitizer which can transmit the germs. Automatic hand sanitizer dispensers have no common contact point which cuts down the possibility of disease transmission.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Wall-mounted hand sanitizer dispensers have a sleek and stylish appearance, so they add a modern touch to the places they are installed in. It indeed gives a high-end vibe to your environment.</span></li>
+</ul>
+<span style="font-weight: 400;">Keeping workplaces, especially medical facilities healthy is highly important for the employees and visitors alike. Having infectious disease control measures to prevent COVID transmission is critical to maintaining safety at the workplace in order to have your employees feel safe at work in the wake of the COVID-19 pandemic. The far-reaching benefits of </span>hand sanitizer with temperature sensors<span style="font-weight: 400;"> make it worth buying. Get in touch with us today to get a hold of one of this must-have equipment for your medical facility or workplace.</span>
+</div>
+</div>
+</div>
+</form></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>best</s:tag>
+    <s:tag>hand</s:tag>
+    <s:tag>sanitizer</s:tag>
+    <s:tag>thermometer</s:tag>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/4621284900924</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">249.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://medicsupplies.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://medicsupplies.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://medicsupplies.ca/collections/syringes-needles.atom"/>
+  <title>Medic Supplies</title>
+  <updated>2020-04-13T18:10:32-04:00</updated>
+  <author>
+    <name>Medic Supplies</name>
+  </author>
+  <entry>
+    <id>https://medicsupplies.ca/products/4496028106812</id>
+    <published>2020-04-13T18:10:32-04:00</published>
+    <updated>2020-04-13T18:10:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://medicsupplies.ca/products/dispensing-needle"/>
+    <title>Dispensing Needle</title>
+    <s:type></s:type>
+    <s:vendor>MedicsuppliesCA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/9500/3196/products/product-image-1334202137.jpg?v=1588295401"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MedicsuppliesCA<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> FAITHFUL</span><br><span><strong>Subject:</strong> Medical Science</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>needles</s:tag>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/4496028106812</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>35132331</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://medicsupplies.ca/products/4496028074044</id>
+    <published>2020-04-13T18:10:32-04:00</published>
+    <updated>2020-04-13T18:10:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://medicsupplies.ca/products/plastic-syringe-without-needles"/>
+    <title>Plastic syringe without needles</title>
+    <s:type></s:type>
+    <s:vendor>MedicsuppliesCA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/9500/3196/products/product-image-1353784663.jpg?v=1586815834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MedicsuppliesCA<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> EasyThru</span><br><span><strong>Model Number:</strong> 10ml syringe</span><br><span><strong>Type:</strong> medical science</span><br><span><strong>Subject:</strong> Medical Science</span><br><span><strong>size:</strong> 10ml without needle</span><br><span><strong>sterilized:</strong> not sterilized</span><br><span><strong>quantity:</strong> 10pcs</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>needles</s:tag>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/4496028074044</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>15640422</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://medicsupplies.ca/products/4496028041276</id>
+    <published>2020-04-13T18:10:32-04:00</published>
+    <updated>2020-04-13T18:10:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://medicsupplies.ca/products/injectable-syringe"/>
+    <title>Injectable Syringe</title>
+    <s:type></s:type>
+    <s:vendor>MedicsuppliesCA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/9500/3196/products/product-image-1334196889.jpg?v=1588295445"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MedicsuppliesCA<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> FAITHFUL</span><br><span><strong>Model Number:</strong> 1ml</span><br><span><strong>Subject:</strong> Medical Science</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>needles</s:tag>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/4496028041276</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>22899544</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://medicsupplies.ca/products/4496028008508</id>
+    <published>2020-04-13T18:10:32-04:00</published>
+    <updated>2020-04-13T18:10:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://medicsupplies.ca/products/infusion-pipe"/>
+    <title>Infusion Pipe</title>
+    <s:type></s:type>
+    <s:vendor>MedicsuppliesCA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/9500/3196/products/product-image-1353783948.jpg?v=1586815834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MedicsuppliesCA<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Pattern:</strong> Solid Color</span><br><span><strong>Model Number:</strong> SNJ1276</span><br><span><strong>Material:</strong> Plastic</span><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>needles</s:tag>
+    <s:variant>
+      <id>https://medicsupplies.ca/products/4496028008508</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>35602773-d</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
